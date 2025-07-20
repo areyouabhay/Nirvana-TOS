@@ -37,7 +37,7 @@ Some data may be temporarily cached for performance reasons. Cached data is typi
 
 ## Data Deletion
 
-You may request data deletion via the [support server](https://discord.gg/yourserverinvite). For security purposes:
+You may request data deletion via the [support server](https://discord.gg/R35fpSXCR3). For security purposes:
 
 * Only server owners may request deletion of server-related data
 * Proof of identity (e.g., matching Discord ID) may be required for user data
