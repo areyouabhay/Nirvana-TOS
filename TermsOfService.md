@@ -48,4 +48,4 @@ Users who disagree with the updated terms may opt out by removing Nirvana Bot fr
 
 ## Contact
 
-For questions, support, or requests related to the bot or data, please join the official [Nirvana Bot Support Server](https://discord.gg/yourserverinvite) *(replace with actual invite)*. Other contact methods may be provided within the bot but are not guaranteed.
+For questions, support, or requests related to the bot or data, please join the official [Nirvana Bot Support Server](https://discord.gg/R35fpSXCR3). Other contact methods may be provided within the bot but are not guaranteed.
